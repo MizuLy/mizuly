@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I’m Sengly Sea 👋
 
-<!--
-**MizuLy/mizuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science freshman at Western University, Cambodia.
+I love web development, backend programming, and building small projects.
 
-Here are some ideas to get you started:
+💻 Currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PHP & MySQL (CRUD apps, mini projects)
+
+Node.js & Express.js (REST APIs, backend development)
+
+REST, GraphQL, WebSocket concepts
+
+📚 Interests: History, Geography, Morality, Health, Investing
+
+🔧 Projects:
+
+Mini PHP app to manage student info and scores
+
+Experimenting with REST & GraphQL APIs
+
+Learning backend with Express.js & Node.js
+
+📫 Contact me: senglysea12@gmail.com
