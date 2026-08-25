@@ -6,6 +6,8 @@
   <img src="https://media1.tenor.com/m/ife-tfuZEfYAAAAC/bleach-kisuke.gif" width="280" alt="Urahara" />
 </div>
 
+<br/>
+
 <div align="center">
 
   <!-- Shop sign style badges -->
