@@ -9,9 +9,9 @@
 <div align="center">
 
   <!-- Shop sign style badges -->
-  <img src="https://img.shields.io/badge/SHOPKEEPER-Mizu-2E8B8B?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/BANKAI-Full%20Stack%20Deployment-6A0DAD?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/DIVISION-12th%20%28R%26D%29-1a1a1a?style=for-the-badge&labelColor=2E8B8B" />
+  <img src="https://img.shields.io/badge/SHOP%20INHERITOR-Mizu-2E8B8B?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/PLAN-Zero%20Steps%20Ahead-6A0DAD?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/DIVISION-Making%20It%20Up%20As%20I%20Go-1a1a1a?style=for-the-badge&labelColor=2E8B8B" />
 
 </div>
 
@@ -19,10 +19,10 @@
 
 ### Welcome to the Shop!
 
-Yo, come on in — I'm **Mizu**, final-year CS student and full-stack dev running my own little Urahara Shop of code.
-I mix things together with **Spring Boot**, **Node.js/Express**, **Vue** and **React** — half the time the shop looks quiet, but there's always something being built in the basement training grounds.
+Yo, come on in — I'm **Mizu**, final-year CS student and full-stack dev who somehow ended up running Urahara's old shop. Problem is, he left no notes, and I have absolutely no idea what's behind half these doors.
+I mix things together with **Spring Boot**, **Node.js/Express**, **Vue** and **React** — the shop looks quiet because I genuinely don't know what I'm doing back there either.
 
-> _"Just because you can't see it doesn't mean it's not there."_ — Kisuke Urahara
+> _"If you can't see the bug, that just means it's your problem now."_ — definitely not Kisuke Urahara, probably me at 2am
 
 <br/>
 
@@ -30,13 +30,13 @@ I mix things together with **Spring Boot**, **Node.js/Express**, **Vue** and **R
 
 ```yaml
 name: Mizu
-role: Shopkeeper / Full-Stack Engineer-in-training
-zanpakuto: Benihime no Backend-Kaiten
-current_arc: Capstone Training Arc (car rental system, Spring Boot + Vue)
-crew_position: Full-Stack Navigator
-weapon_of_choice: Kantai-level debugging + way too much coffee
-dream: Ship production-ready code without the hidden trapdoor breaking
-status: Open — probably testing something in the basement
+role: Accidental Shopkeeper / Definitely Not Five Steps Ahead
+zanpakuto: Ctrl+Z no Jutsu (only works sometimes)
+current_arc: Capstone Training Arc (car rental system, Spring Boot + Vue, held together by hope)
+crew_position: Full-Stack Navigator (still using the map upside down)
+weapon_of_choice: Stack Overflow + way too much coffee
+dream: Ship it before anyone notices the trapdoor
+status: Open — please ignore the smoke coming from the basement
 ```
 
 <br/>
@@ -61,7 +61,7 @@ status: Open — probably testing something in the basement
     </td>
     <td align="center" width="200">
       <b>Vue / React</b><br/>
-      <img src="https://progress-bar.xyz/70/?title=&width=140&color=41B883&suffix=%25" />
+      <img src="https://progress-bar.xyz/75/?title=&width=140&color=41B883&suffix=%25" />
     </td>
     <td align="center" width="200">
       <b>Node / Express</b><br/>
@@ -74,11 +74,11 @@ status: Open — probably testing something in the basement
 
 <img src="https://img.shields.io/badge/-Currently%20Behind%20the%20Counter-1a1a1a?style=for-the-badge&logoColor=white" />
 
-- <img src="https://api.iconify.design/mdi:telescope.svg?color=%232E8B8B&width=20&height=20" width="20" style="vertical-align:middle"/> **Working on:** a Spring Boot + Vue car rental capstone project
-- <img src="https://api.iconify.design/mdi:school.svg?color=%236A0DAD&width=20&height=20" width="20" style="vertical-align:middle"/> **Training in:** full-stack patterns — JWT auth, clean architecture, deployment pipelines
-- <img src="https://api.iconify.design/mdi:account-group.svg?color=%232E8B8B&width=20&height=20" width="20" style="vertical-align:middle"/> **Looking to team up on:** freelance projects, open source, hackathons
-- <img src="https://api.iconify.design/mdi:comment-question-outline.svg?color=%236A0DAD&width=20&height=20" width="20" style="vertical-align:middle"/> **Ask me about:** Spring Boot, Node/Express, Vue, React, or good anime to watch while debugging
-- <img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%232E8B8B&width=20&height=20" width="20" style="vertical-align:middle"/> **Fun fact:** I fix bugs like Urahara runs his shop — looks laid-back, but there's a plan five steps ahead
+- <img src="https://api.iconify.design/mdi:telescope.svg?color=%232E8B8B&width=20&height=20" width="20" style="vertical-align:middle"/> **Working on:** a Spring Boot + Vue car rental capstone project (currently held together by hope and one very load-bearing StackOverflow answer)
+- <img src="https://api.iconify.design/mdi:school.svg?color=%236A0DAD&width=20&height=20" width="20" style="vertical-align:middle"/> **Training in:** full-stack patterns — mostly by breaking things first, then Googling why
+- <img src="https://api.iconify.design/mdi:account-group.svg?color=%232E8B8B&width=20&height=20" width="20" style="vertical-align:middle"/> **Looking to team up on:** anything, honestly, I just don't want to debug this alone anymore
+- <img src="https://api.iconify.design/mdi:comment-question-outline.svg?color=%236A0DAD&width=20&height=20" width="20" style="vertical-align:middle"/> **Ask me about:** Spring Boot, Node/Express, Vue, React, or why my code worked five minutes ago and doesn't now
+- <img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%232E8B8B&width=20&height=20" width="20" style="vertical-align:middle"/> **Fun fact:** unlike Urahara, I have no five-step plan — I have one step, and it's usually wrong
 
 <br/>
 
@@ -108,8 +108,8 @@ status: Open — probably testing something in the basement
 
 <div align="center">
 
-> ### _"If you're going to fight, fight to win."_
-> #### — Kisuke Urahara
+> ### _"If you're going to fight the bug, fight to just comment it out."_
+> #### — not Kisuke Urahara, this is just me giving up
 
 </div>
 
@@ -135,7 +135,7 @@ status: Open — probably testing something in the basement
 <div align="center">
 
 <a href="https://github.com/MizuLy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6A0DAD&center=true&vCenter=true&width=640&height=70&lines=Welcome+to+Urahara+Shop%2C+Come+On+In!;Training+Arc%3A+Never+Skip+Deploy+Day...+or+LeetCode;Eat.+Sleep.+Code.+Open+the+Shop." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6A0DAD&center=true&vCenter=true&width=640&height=70&lines=Welcome+to+the+Shop%2C+I+Inherited+It%2C+Please+Send+Help;Training+Arc%3A+Break+It%2C+Fix+It%2C+Repeat;Eat.+Sleep.+Push+to+Main.+Regret+Instantly." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -144,7 +144,7 @@ status: Open — probably testing something in the basement
 
 <br/><br/>
 
-_Thanks for stopping by the shop. May your builds compile on the first try — no hidden trapdoors._
+_Thanks for stopping by the shop. Unlike Urahara, I have no idea if your build will compile — but let's find out together._
 
 </div>
 
