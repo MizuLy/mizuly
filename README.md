@@ -46,7 +46,17 @@ status: Open — please ignore the smoke coming from the basement
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,vue,react,nodejs,express,mysql,postgres,git,github,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,vue,react,nodejs,express,mysql,postgres,git,github,docker,vscode,prisma,tailwind,postman&theme=dark" />
+</a>
+
+<br/><br/>
+
+<sub><b>Also running in the background while I code</b></sub>
+
+<br/><br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=discord,spotify&theme=dark" />
 </a>
 
 </div>
@@ -61,7 +71,7 @@ status: Open — please ignore the smoke coming from the basement
     </td>
     <td align="center" width="200">
       <b>Vue / React</b><br/>
-      <img src="https://progress-bar.xyz/75/?title=&width=140&color=41B883&suffix=%25" />
+      <img src="https://progress-bar.xyz/70/?title=&width=140&color=41B883&suffix=%25" />
     </td>
     <td align="center" width="200">
       <b>Node / Express</b><br/>
