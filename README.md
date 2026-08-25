@@ -1,4 +1,4 @@
-<img width="498" height="374" alt="image" src="https://github.com/user-attachments/assets/616e37d1-01c5-47aa-bf9f-3c4c16475837" /><!-- ══════════════════ 🎩 MIZU'S SHOP — URAHARA STYLE ══════════════════ -->
+<!-- ══════════════════ 🎩 MIZU'S SHOP — URAHARA STYLE ══════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Mizu%20%F0%9F%8E%A9&fontSize=75&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=2,6,20&desc=%E2%88%99%20Running%20the%20Urahara%20Shop%20of%20Code%20%E2%88%99&descSize=18&descAlignY=68&descAlign=50" width="100%" />
 
