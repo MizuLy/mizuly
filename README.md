@@ -1,6 +1,6 @@
 <!-- ══════════════════ MIZU'S SHOP — URAHARA STYLE ══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Mizu&fontSize=75&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=2,6,20&desc=%E2%88%99%20Running%20the%20Urahara%20Shop%20of%20Code%20%E2%88%99&descSize=18&descAlignY=68&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:141414,50:1f3d3d,100:2e1a47&text=Mizu&textBg=false&animation=twinkling&section=header&reversal=true&fontAlign=50" width="100%" />
 
 <div align="center">
   <img src="https://media1.tenor.com/m/ife-tfuZEfYAAAAC/bleach-kisuke.gif" width="280" alt="Urahara" />
