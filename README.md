@@ -140,7 +140,7 @@ status: 🟢 Open — probably testing something in the basement
 
 <br/>
 
-<img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/a29ab49b-d41b-414d-aadf-97bf16c3f5d9" />
+<img width="498" height="281" alt="image" src="https://media1.tenor.com/m/eLEJfeKzL1wAAAAC/yoruichi-urahara.gif" />
 
 <br/><br/>
 
