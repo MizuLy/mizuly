@@ -1,15 +1,150 @@
-Set all my repos to private cuz the code is so bad
+<!-- ══════════════════ 🎩 MIZU'S SHOP — URAHARA STYLE ══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Mizu%20%F0%9F%8E%A9&fontSize=75&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=2,6,20&desc=%E2%88%99%20Running%20the%20Urahara%20Shop%20of%20Code%20%E2%88%99&descSize=18&descAlignY=68&descAlign=50" width="100%" />
+
+<div align="center">
+  <img src="https://media.tenor.com/kzKBPPjX3sYAAAAM/urahara-kisuke.gif" width="280" alt="Urahara fanning himself" />
+</div>
+
+<div align="center">
+
+  <!-- Shop sign style badges -->
+  <img src="https://img.shields.io/badge/SHOPKEEPER-Mizu-2E8B8B?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/BANKAI-Full%20Stack%20Deployment-6A0DAD?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/DIVISION-12th%20%28R%26D%29-1a1a1a?style=for-the-badge&labelColor=2E8B8B" />
+
+</div>
+
+---
+
+### 🌸 Welcome to the Shop!
+
+Yo, come on in — I'm **Mizu**, final-year CS student and full-stack dev running my own little Urahara Shop of code 🎩🍬
+I mix things together with **Spring Boot**, **Node.js/Express**, **Vue** and **React** — half the time the shop looks quiet, but there's always something being built in the basement training grounds.
+
+> _"Just because you can't see it doesn't mean it's not there."_ — Kisuke Urahara
+
+<br/>
+
+## 📜 Shop Ledger
+
+```yaml
+name: Mizu
+role: Shopkeeper / Full-Stack Engineer-in-training
+zanpakuto: Benihime no Backend-Kaiten 🗡️
+current_arc: Capstone Training Arc (car rental system, Spring Boot + Vue)
+crew_position: Full-Stack Navigator
+weapon_of_choice: Kantai-level debugging + way too much coffee
+dream: Ship production-ready code without the hidden trapdoor breaking
+status: 🟢 Open — probably testing something in the basement
 ```
-⠄⠄⢿⣇⠄⠄⠘⣆⢀⣼⣿⣿⣿⣿⢿⡿⣿⢻⣿⣿⣿⣿⣿⣿⣿⣟⢧⡲⣿⢷⢦⡀
-⠄⠄⠈⣿⠄⠄⠄⢙⢞⢿⣿⢹⢿⣦⢏⣱⢿⠘⣿⣝⠹⢿⣿⡽⣿⣿⣏⣆⢿⣿⡞⠁
-⠄⠄⠄⢻⡀⠄⠄⠈⣾⡸⡏⢸⡾⣴⣿⣿⣶⣼⣎⢵⢀⡛⣿⣷⡙⡻⢻⡴⠨⠨⠖⠃
-⠄⠄⠄⠈⣧⢀⡴⠊⢹⠁⡇⠈⢣⣿⣿⣿⣿⣦⣿⣷⣜⡳⣝⢧⢃⢣⣼⢁⠘⠆⠄⠄
-⠄⠄⠄⠄⢹⡇⠄⣠⠔⠚⣅⠄⢰⣶⣦⣭⣿⣿⣿⡿⠟⠿⣷⡧⠄⣘⣟⣸⠄⠄⠄⠄
-⠄⠄⠄⠄⠄⢷⠎⠄⠄⠄⣼⣦⠻⣿⣿⡟⠛⠻⢿⣿⣿⣿⡾⢱⣿⡏⠸⡏⠄⠄⠄⠄
-⠄⠄⠄⠄⠄⠸⡄⠄⡄⠄⣿⢧⢗⠌⠻⣇⠿⠿⣸⣿⣿⡟⡐⣿⠟⢰⣇⠇⠄⠄⠄⠄
-⠄⠄⠄⠄⠄⣠⡆⠄⠃⢠⠏⣤⢀⢢⡰⣭⣛⡉⠩⠭⡅⣾⢳⡴⡀⢸⣿⡆⠄⠄⠄⠄
-⠄⠄⠄⢀⣶⡟⣽⠼⢀⡕⢀⠘⠸⢮⡳⡻⡍⡷⡆⠤⠤⠭⢸⢳⣷⢸⡟⣷⠄⠄⠄⠄
-⠄⠄⣴⣿⢫⢞⣵⢏⡞⠄⢸⠄⣛⣗⠩⠄⣰⣚⠒⠂⣀⡀⢸⢸⣿⣧⠇⡼⣧⠄⠄⠄
-⢠⣾⢟⡴⢫⡾⣱⢟⠄⠄⢸⠄⢈⡓⡮⡦⡬⠽⡠⠄⠔⠄⢸⠈⣿⣿⡄⣷⢹⣆⠄⠄
-⡿⢁⠞⢀⣿⢣⠇⣿⠄⠄⠸⢀⢳⢣⣗⣿⡇⡔⠄⠔⠄⠄⢠⠄⠹⣿⣷⡝⣧⢻⣆
-```
+
+<br/>
+
+## ⚔️ Tools of the Trade
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,vue,react,nodejs,express,mysql,postgres,git,github,docker,vscode&theme=dark" />
+</a>
+
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <b>Spring Boot</b><br/>
+      <img src="https://progress-bar.xyz/80/?title=&width=140&color=6DB33F&suffix=%25" />
+    </td>
+    <td align="center" width="200">
+      <b>Vue / React</b><br/>
+      <img src="https://progress-bar.xyz/75/?title=&width=140&color=41B883&suffix=%25" />
+    </td>
+    <td align="center" width="200">
+      <b>Node / Express</b><br/>
+      <img src="https://progress-bar.xyz/70/?title=&width=140&color=339933&suffix=%25" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🏮 Currently Behind the Counter
+
+- 🔭 Working on: a Spring Boot + Vue car rental capstone project
+- 🌱 Training in: full-stack patterns — JWT auth, clean architecture, deployment pipelines
+- 👀 Looking to team up on: freelance projects, open source, hackathons
+- 💬 Ask me about: Spring Boot, Node/Express, Vue, React, or good anime to watch while debugging
+- ⚡ Fun fact: I fix bugs like Urahara runs his shop — looks laid-back, but there's a plan five steps ahead
+
+<br/>
+
+## 📊 Shop Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E8B8B&icon_color=6A0DAD&text_color=E6EDF3&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&stroke=2E8B8B&ring=6A0DAD&fire=2E8B8B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=6A0DAD&sideLabels=AAB8C2&dates=8B949E" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=2E8B8B&text_color=E6EDF3&langs_count=8" height="165" alt="Top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" height="165" alt="Trophies" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Senkaimon
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+</div>
+
+<br/>
+
+## 💬 Words From the Shop
+
+<div align="center">
+
+> ### _"If you're going to fight, fight to win."_
+> #### — Kisuke Urahara 🎩
+
+</div>
+
+---
+
+## 🤝 Visit the Shop
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=CUSTOMERS+VISITED&color=2E8B8B&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6A0DAD&center=true&vCenter=true&width=640&height=70&lines=Welcome+to+Urahara+Shop%2C+Come+On+In!+%F0%9F%8E%A9;Training+Arc%3A+Never+Skip+Deploy+Day...+or+LeetCode+%F0%9F%92%AA;Eat.+Sleep.+Code.+Open+the+Shop.+%F0%9F%8D%99%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://media.tenor.com/9Kk1QUZ8bfsAAAAM/bleach-urahara.gif" width="300" alt="Urahara smiling" />
+
+<br/><br/>
+
+⭐ _Thanks for stopping by the shop. May your builds compile on the first try — no hidden trapdoors._ ⭐
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=2,6,20" width="100%" />
