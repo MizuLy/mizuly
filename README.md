@@ -22,7 +22,7 @@
 ### Welcome to the Shop!
 
 Yo, come on in — I'm **Mizu**, final-year CS student and full-stack dev who somehow ended up running Urahara's old shop. Problem is, he left no notes, and I have absolutely no idea what's behind half these doors.
-I mix things together with **Spring Boot**, **Node.js/Express**, **Vue** and **React** — the shop looks quiet because I genuinely don't know what I'm doing back there either.
+I mix things together with **Spring Boot**, **Node.js/Express**, **Laravel**, **Vue** and **React** — the shop looks quiet because I genuinely don't know what I'm doing back there either.
 
 > _"If you can't see the bug, that just means it's your problem now."_ — definitely not Kisuke Urahara, probably me at 2am
 
@@ -48,7 +48,7 @@ status: Open — please ignore the smoke coming from the basement
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,vue,react,nodejs,express,mysql,postgres,git,github,docker,vscode,prisma,tailwind,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,vue,react,nodejs,express,laravel,mysql,postgres,git,github,docker,vscode,prisma,tailwind,postman&theme=dark" />
 </a>
 
 <sub ><b>The real reason nothing ships on time</b></sub>
