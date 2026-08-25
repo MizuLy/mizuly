@@ -61,7 +61,7 @@ status: Open — probably testing something in the basement
     </td>
     <td align="center" width="200">
       <b>Vue / React</b><br/>
-      <img src="https://progress-bar.xyz/75/?title=&width=140&color=41B883&suffix=%25" />
+      <img src="https://progress-bar.xyz/70/?title=&width=140&color=41B883&suffix=%25" />
     </td>
     <td align="center" width="200">
       <b>Node / Express</b><br/>
@@ -74,11 +74,11 @@ status: Open — probably testing something in the basement
 
 <img src="https://img.shields.io/badge/-Currently%20Behind%20the%20Counter-1a1a1a?style=for-the-badge&logoColor=white" />
 
-- <img src="https://img.shields.io/badge/-%20-2E8B8B?style=flat-square&logo=rocketdotchat&logoColor=white" width="22"/> **Working on:** a Spring Boot + Vue car rental capstone project
-- <img src="https://img.shields.io/badge/-%20-6A0DAD?style=flat-square&logo=duolingo&logoColor=white" width="22"/> **Training in:** full-stack patterns — JWT auth, clean architecture, deployment pipelines
-- <img src="https://img.shields.io/badge/-%20-2E8B8B?style=flat-square&logo=meetup&logoColor=white" width="22"/> **Looking to team up on:** freelance projects, open source, hackathons
-- <img src="https://img.shields.io/badge/-%20-6A0DAD?style=flat-square&logo=askubuntu&logoColor=white" width="22"/> **Ask me about:** Spring Boot, Node/Express, Vue, React, or good anime to watch while debugging
-- <img src="https://img.shields.io/badge/-%20-2E8B8B?style=flat-square&logo=zapier&logoColor=white" width="22"/> **Fun fact:** I fix bugs like Urahara runs his shop — looks laid-back, but there's a plan five steps ahead
+- <img src="https://api.iconify.design/mdi:telescope.svg?color=%232E8B8B&width=20&height=20" width="20" style="vertical-align:middle"/> **Working on:** a Spring Boot + Vue car rental capstone project
+- <img src="https://api.iconify.design/mdi:school.svg?color=%236A0DAD&width=20&height=20" width="20" style="vertical-align:middle"/> **Training in:** full-stack patterns — JWT auth, clean architecture, deployment pipelines
+- <img src="https://api.iconify.design/mdi:account-group.svg?color=%232E8B8B&width=20&height=20" width="20" style="vertical-align:middle"/> **Looking to team up on:** freelance projects, open source, hackathons
+- <img src="https://api.iconify.design/mdi:comment-question-outline.svg?color=%236A0DAD&width=20&height=20" width="20" style="vertical-align:middle"/> **Ask me about:** Spring Boot, Node/Express, Vue, React, or good anime to watch while debugging
+- <img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%232E8B8B&width=20&height=20" width="20" style="vertical-align:middle"/> **Fun fact:** I fix bugs like Urahara runs his shop — looks laid-back, but there's a plan five steps ahead
 
 <br/>
 
