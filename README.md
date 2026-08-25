@@ -34,9 +34,9 @@ I mix things together with **Spring Boot**, **Node.js/Express**, **Laravel**, **
 name: Mizu
 role: Accidental Shopkeeper / Definitely Not Five Steps Ahead
 zanpakuto: Ctrl+Z no Jutsu (only works sometimes)
-current_arc: Capstone Training Arc (car rental system, Spring Boot + Vue, held together by hope)
+current_arc: Capstone Training Arc (academic system, Node/Express + React) and ETEC scholarship Filler Arc (car rental system, Spring Boot + Vue, held together by hope)
 crew_position: Full-Stack Navigator (still using the map upside down)
-weapon_of_choice: Stack Overflow + way too much coffee
+weapon_of_choice: Ctrl C + Ctrl + V (used with not much responsibility, mostly)
 dream: Ship it before anyone notices the trapdoor
 status: Open — please ignore the smoke coming from the basement
 ```
@@ -83,10 +83,10 @@ status: Open — please ignore the smoke coming from the basement
 
 <img src="https://img.shields.io/badge/-Currently%20Behind%20the%20Counter-1a1a1a?style=for-the-badge&logoColor=white" />
 
-- <img src="https://api.iconify.design/mdi:telescope.svg?color=%232E8B8B&width=20&height=20" width="20" style="vertical-align:middle"/> **Working on:** a Spring Boot + Vue car rental capstone project (currently held together by hope and one very load-bearing StackOverflow answer)
+- <img src="https://api.iconify.design/mdi:telescope.svg?color=%232E8B8B&width=20&height=20" width="20" style="vertical-align:middle"/> **Working on:** a Spring Boot + Vue car rental capstone project (currently held together by hope and Claude)
 - <img src="https://api.iconify.design/mdi:school.svg?color=%236A0DAD&width=20&height=20" width="20" style="vertical-align:middle"/> **Training in:** full-stack patterns — mostly by breaking things first, then Googling why
 - <img src="https://api.iconify.design/mdi:account-group.svg?color=%232E8B8B&width=20&height=20" width="20" style="vertical-align:middle"/> **Looking to team up on:** anything, honestly, I just don't want to debug this alone anymore
-- <img src="https://api.iconify.design/mdi:comment-question-outline.svg?color=%236A0DAD&width=20&height=20" width="20" style="vertical-align:middle"/> **Ask me about:** Spring Boot, Node/Express, Vue, React, or why my code worked five minutes ago and doesn't now
+- <img src="https://api.iconify.design/mdi:comment-question-outline.svg?color=%236A0DAD&width=20&height=20" width="20" style="vertical-align:middle"/> **Ask me about:** Spring Boot, Node/Express, Laravel, Vue, React, or why my code worked five minutes ago and doesn't now
 - <img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%232E8B8B&width=20&height=20" width="20" style="vertical-align:middle"/> **Fun fact:** unlike Urahara, I have no five-step plan — I have one step, and it's usually wrong
 
 <br/>
