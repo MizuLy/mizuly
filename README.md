@@ -1,6 +1,6 @@
 <!-- ══════════════════ MIZU'S SHOP — URAHARA STYLE ══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:141414,50:1f3d3d,100:2e1a47&text=Mizu&textBg=false&animation=twinkling&section=header&reversal=true&fontAlign=50&desc=%E2%88%99%20Running%20the%20Urahara%20Shop%20of%20Code%20%E2%88%99&descSize=18&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=2,6,20&text=Mizu&textBg=false&animation=twinkling&section=header&reversal=true&fontAlign=50&desc=%E2%88%99%20Running%20the%20Urahara%20Shop%20of%20Code%20%E2%88%99&descSize=18&descAlignY=75" width="100%" />
 
 <div align="center">
   <img src="https://media1.tenor.com/m/ife-tfuZEfYAAAAC/bleach-kisuke.gif" width="280" alt="Urahara" />
@@ -74,11 +74,11 @@ status: Open — probably testing something in the basement
 
 <img src="https://img.shields.io/badge/-Currently%20Behind%20the%20Counter-1a1a1a?style=for-the-badge&logoColor=white" />
 
-- **Working on:** a Spring Boot + Vue car rental capstone project
-- **Training in:** full-stack patterns — JWT auth, clean architecture, deployment pipelines
-- **Looking to team up on:** freelance projects, open source, hackathons
-- **Ask me about:** Spring Boot, Node/Express, Vue, React, or good anime to watch while debugging
-- **Fun fact:** I fix bugs like Urahara runs his shop — looks laid-back, but there's a plan five steps ahead
+- <img src="https://img.shields.io/badge/-%20-2E8B8B?style=flat-square&logo=rocketdotchat&logoColor=white" width="22"/> **Working on:** a Spring Boot + Vue car rental capstone project
+- <img src="https://img.shields.io/badge/-%20-6A0DAD?style=flat-square&logo=duolingo&logoColor=white" width="22"/> **Training in:** full-stack patterns — JWT auth, clean architecture, deployment pipelines
+- <img src="https://img.shields.io/badge/-%20-2E8B8B?style=flat-square&logo=meetup&logoColor=white" width="22"/> **Looking to team up on:** freelance projects, open source, hackathons
+- <img src="https://img.shields.io/badge/-%20-6A0DAD?style=flat-square&logo=askubuntu&logoColor=white" width="22"/> **Ask me about:** Spring Boot, Node/Express, Vue, React, or good anime to watch while debugging
+- <img src="https://img.shields.io/badge/-%20-2E8B8B?style=flat-square&logo=zapier&logoColor=white" width="22"/> **Fun fact:** I fix bugs like Urahara runs his shop — looks laid-back, but there's a plan five steps ahead
 
 <br/>
 
@@ -148,4 +148,4 @@ _Thanks for stopping by the shop. May your builds compile on the first try — n
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:141414,50:1f3d3d,100:2e1a47" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=2,6,20" width="100%" />
