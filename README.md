@@ -85,13 +85,13 @@ status: 🟢 Open — probably testing something in the basement
 ## 📊 Shop Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E8B8B&icon_color=6A0DAD&text_color=E6EDF3&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&stroke=2E8B8B&ring=6A0DAD&fire=2E8B8B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=6A0DAD&sideLabels=AAB8C2&dates=8B949E" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MizuLy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E8B8B&icon_color=6A0DAD&text_color=E6EDF3&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=MizuLy&hide_border=true&background=0D1117&stroke=2E8B8B&ring=6A0DAD&fire=2E8B8B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=6A0DAD&sideLabels=AAB8C2&dates=8B949E" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=2E8B8B&text_color=E6EDF3&langs_count=8" height="165" alt="Top languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" height="165" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizuLy&layout=compact&hide_border=true&bg_color=0D1117&title_color=2E8B8B&text_color=E6EDF3&langs_count=8" height="165" alt="Top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MizuLy&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" height="165" alt="Trophies" />
 </div>
 
 <br/>
@@ -119,13 +119,14 @@ status: 🟢 Open — probably testing something in the basement
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![GitHub](https://img.shields.io/badge/GitHub-MizuLy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MizuLy)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MizuQmQ)
+[![Discord](https://img.shields.io/badge/Discord-mizu4629-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mizu4629)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mizu.469/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senglysea12@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=CUSTOMERS+VISITED&color=2E8B8B&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=MizuLy&label=CUSTOMERS+VISITED&color=2E8B8B&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -133,7 +134,7 @@ status: 🟢 Open — probably testing something in the basement
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/MizuLy">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6A0DAD&center=true&vCenter=true&width=640&height=70&lines=Welcome+to+Urahara+Shop%2C+Come+On+In!+%F0%9F%8E%A9;Training+Arc%3A+Never+Skip+Deploy+Day...+or+LeetCode+%F0%9F%92%AA;Eat.+Sleep.+Code.+Open+the+Shop.+%F0%9F%8D%99%E2%9C%A8" alt="Typing SVG" />
 </a>
 
