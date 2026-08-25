@@ -49,12 +49,8 @@ status: Open — please ignore the smoke coming from the basement
   <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,vue,react,nodejs,express,mysql,postgres,git,github,docker,vscode,prisma,tailwind,postman&theme=dark" />
 </a>
 
-<br/><br/>
-
 <sub><b>Also running in the background while I code</b></sub>
-
-<br/><br/>
-
+<br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=discord,spotify&theme=dark" />
 </a>
