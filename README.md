@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Mizu%20%F0%9F%8E%A9&fontSize=75&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=2,6,20&desc=%E2%88%99%20Running%20the%20Urahara%20Shop%20of%20Code%20%E2%88%99&descSize=18&descAlignY=68&descAlign=50" width="100%" />
 
 <div align="center">
-  <img src="[https://media.tenor.com/kzKBPPjX3sYAAAAM/urahara-kisuke.gif](https://tenor.com/view/bleach-kisuke-urahara-toilet-loo-gif-9941624391263130102)" width="280" alt="Urahara fanning himself" />
+  <img src="https://media.tenor.com/kzKBPPjX3sYAAAAM/urahara-kisuke.gif" width="280" alt="Urahara fanning himself" />
 </div>
 
 <div align="center">
