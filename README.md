@@ -1,6 +1,6 @@
 <!-- ══════════════════ MIZU'S SHOP — URAHARA STYLE ══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:141414,50:1f3d3d,100:2e1a47&text=Mizu&textBg=false&animation=twinkling&section=header&reversal=true&fontAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:141414,50:1f3d3d,100:2e1a47&text=Mizu&textBg=false&animation=twinkling&section=header&reversal=true&fontAlign=50&desc=%E2%88%99%20Running%20the%20Urahara%20Shop%20of%20Code%20%E2%88%99&descSize=18&descAlignY=75" width="100%" />
 
 <div align="center">
   <img src="https://media1.tenor.com/m/ife-tfuZEfYAAAAC/bleach-kisuke.gif" width="280" alt="Urahara" />
@@ -57,7 +57,7 @@ status: Open — probably testing something in the basement
   <tr>
     <td align="center" width="200">
       <b>Spring Boot</b><br/>
-      <img src="https://progress-bar.xyz/80/?title=&width=140&color=6DB33F&suffix=%25" />
+      <img src="https://progress-bar.xyz/75/?title=&width=140&color=6DB33F&suffix=%25" />
     </td>
     <td align="center" width="200">
       <b>Vue / React</b><br/>
@@ -65,7 +65,7 @@ status: Open — probably testing something in the basement
     </td>
     <td align="center" width="200">
       <b>Node / Express</b><br/>
-      <img src="https://progress-bar.xyz/70/?title=&width=140&color=339933&suffix=%25" />
+      <img src="https://progress-bar.xyz/85/?title=&width=140&color=339933&suffix=%25" />
     </td>
   </tr>
 </table>
@@ -148,4 +148,4 @@ _Thanks for stopping by the shop. May your builds compile on the first try — n
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=2,6,20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:141414,50:1f3d3d,100:2e1a47" width="100%" />
