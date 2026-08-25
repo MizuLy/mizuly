@@ -1,9 +1,9 @@
-<!-- ══════════════════ 🎩 MIZU'S SHOP — URAHARA STYLE ══════════════════ -->
+<!-- ══════════════════ MIZU'S SHOP — URAHARA STYLE ══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Mizu%20%F0%9F%8E%A9&fontSize=75&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=2,6,20&desc=%E2%88%99%20Running%20the%20Urahara%20Shop%20of%20Code%20%E2%88%99&descSize=18&descAlignY=68&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Mizu&fontSize=75&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=2,6,20&desc=%E2%88%99%20Running%20the%20Urahara%20Shop%20of%20Code%20%E2%88%99&descSize=18&descAlignY=68&descAlign=50" width="100%" />
 
 <div align="center">
-  <img width="498" height="374" alt="image" src="https://media1.tenor.com/m/ife-tfuZEfYAAAAC/bleach-kisuke.gif" />
+  <img src="https://media1.tenor.com/m/ife-tfuZEfYAAAAC/bleach-kisuke.gif" width="280" alt="Urahara" />
 </div>
 
 <div align="center">
@@ -17,31 +17,31 @@
 
 ---
 
-### 🌸 Welcome to the Shop!
+### Welcome to the Shop!
 
-Yo, come on in — I'm **Mizu**, final-year CS student and full-stack dev running my own little Urahara Shop of code 🎩🍬
+Yo, come on in — I'm **Mizu**, final-year CS student and full-stack dev running my own little Urahara Shop of code.
 I mix things together with **Spring Boot**, **Node.js/Express**, **Vue** and **React** — half the time the shop looks quiet, but there's always something being built in the basement training grounds.
 
 > _"Just because you can't see it doesn't mean it's not there."_ — Kisuke Urahara
 
 <br/>
 
-## 📜 Shop Ledger
+<img src="https://img.shields.io/badge/-Shop%20Ledger-2E8B8B?style=for-the-badge&logo=bookstack&logoColor=white" />
 
 ```yaml
 name: Mizu
 role: Shopkeeper / Full-Stack Engineer-in-training
-zanpakuto: Benihime no Backend-Kaiten 🗡️
+zanpakuto: Benihime no Backend-Kaiten
 current_arc: Capstone Training Arc (car rental system, Spring Boot + Vue)
 crew_position: Full-Stack Navigator
 weapon_of_choice: Kantai-level debugging + way too much coffee
 dream: Ship production-ready code without the hidden trapdoor breaking
-status: 🟢 Open — probably testing something in the basement
+status: Open — probably testing something in the basement
 ```
 
 <br/>
 
-## ⚔️ Tools of the Trade
+<img src="https://img.shields.io/badge/-Tools%20of%20the%20Trade-6A0DAD?style=for-the-badge&logo=toolbox&logoColor=white" />
 
 <div align="center">
 
@@ -72,17 +72,17 @@ status: 🟢 Open — probably testing something in the basement
 
 <br/>
 
-## 🏮 Currently Behind the Counter
+<img src="https://img.shields.io/badge/-Currently%20Behind%20the%20Counter-1a1a1a?style=for-the-badge&logoColor=white" />
 
-- 🔭 Working on: a Spring Boot + Vue car rental capstone project
-- 🌱 Training in: full-stack patterns — JWT auth, clean architecture, deployment pipelines
-- 👀 Looking to team up on: freelance projects, open source, hackathons
-- 💬 Ask me about: Spring Boot, Node/Express, Vue, React, or good anime to watch while debugging
-- ⚡ Fun fact: I fix bugs like Urahara runs his shop — looks laid-back, but there's a plan five steps ahead
+- **Working on:** a Spring Boot + Vue car rental capstone project
+- **Training in:** full-stack patterns — JWT auth, clean architecture, deployment pipelines
+- **Looking to team up on:** freelance projects, open source, hackathons
+- **Ask me about:** Spring Boot, Node/Express, Vue, React, or good anime to watch while debugging
+- **Fun fact:** I fix bugs like Urahara runs his shop — looks laid-back, but there's a plan five steps ahead
 
 <br/>
 
-## 📊 Shop Stats
+<img src="https://img.shields.io/badge/-Shop%20Stats-2E8B8B?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MizuLy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E8B8B&icon_color=6A0DAD&text_color=E6EDF3&include_all_commits=true&count_private=true" alt="GitHub stats" />
@@ -96,7 +96,7 @@ status: 🟢 Open — probably testing something in the basement
 
 <br/>
 
-## 🐍 Contribution Senkaimon
+<img src="https://img.shields.io/badge/-Contribution%20Senkaimon-6A0DAD?style=for-the-badge&logo=git&logoColor=white" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
@@ -104,18 +104,18 @@ status: 🟢 Open — probably testing something in the basement
 
 <br/>
 
-## 💬 Words From the Shop
+<img src="https://img.shields.io/badge/-Words%20From%20the%20Shop-1a1a1a?style=for-the-badge&logo=quantconnect&logoColor=white" />
 
 <div align="center">
 
 > ### _"If you're going to fight, fight to win."_
-> #### — Kisuke Urahara 🎩
+> #### — Kisuke Urahara
 
 </div>
 
 ---
 
-## 🤝 Visit the Shop
+<img src="https://img.shields.io/badge/-Visit%20the%20Shop-2E8B8B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <div align="center">
 
@@ -123,7 +123,7 @@ status: 🟢 Open — probably testing something in the basement
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MizuQmQ)
 [![Discord](https://img.shields.io/badge/Discord-mizu4629-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mizu4629)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mizu.469/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sengly-sea-b548912b8/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sengly-sea-b548912b8/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senglysea12@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=MizuLy&label=CUSTOMERS+VISITED&color=2E8B8B&style=for-the-badge" alt="Profile views" />
@@ -135,16 +135,16 @@ status: 🟢 Open — probably testing something in the basement
 <div align="center">
 
 <a href="https://github.com/MizuLy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6A0DAD&center=true&vCenter=true&width=640&height=70&lines=Welcome+to+Urahara+Shop%2C+Come+On+In!+%F0%9F%8E%A9;Training+Arc%3A+Never+Skip+Deploy+Day...+or+LeetCode+%F0%9F%92%AA;Eat.+Sleep.+Code.+Open+the+Shop.+%F0%9F%8D%99%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6A0DAD&center=true&vCenter=true&width=640&height=70&lines=Welcome+to+Urahara+Shop%2C+Come+On+In!;Training+Arc%3A+Never+Skip+Deploy+Day...+or+LeetCode;Eat.+Sleep.+Code.+Open+the+Shop." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img width="498" height="281" alt="image" src="https://media1.tenor.com/m/eLEJfeKzL1wAAAAC/yoruichi-urahara.gif" />
+<img src="https://media1.tenor.com/m/eLEJfeKzL1wAAAAC/yoruichi-urahara.gif" width="300" alt="Yoruichi and Urahara" />
 
 <br/><br/>
 
-⭐ _Thanks for stopping by the shop. May your builds compile on the first try — no hidden trapdoors._ ⭐
+_Thanks for stopping by the shop. May your builds compile on the first try — no hidden trapdoors._
 
 </div>
 
