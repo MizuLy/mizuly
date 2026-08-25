@@ -123,7 +123,7 @@ status: 🟢 Open — probably testing something in the basement
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MizuQmQ)
 [![Discord](https://img.shields.io/badge/Discord-mizu4629-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mizu4629)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mizu.469/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sengly-sea-b548912b8/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senglysea12@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=MizuLy&label=CUSTOMERS+VISITED&color=2E8B8B&style=for-the-badge" alt="Profile views" />
