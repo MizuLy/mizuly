@@ -49,7 +49,7 @@ status: Open — please ignore the smoke coming from the basement
   <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,vue,react,nodejs,express,mysql,postgres,git,github,docker,vscode,prisma,tailwind,postman&theme=dark" />
 </a>
 
-<sub><b>The real reason nothing ships on time</b></sub>
+<sub ><b>The real reason nothing ships on time</b></sub>
 <br/>
 <br/>
 <a href="https://skillicons.dev">
@@ -68,7 +68,7 @@ status: Open — please ignore the smoke coming from the basement
     </td>
     <td align="center" width="200">
       <b>Vue / React</b><br/>
-      <img src="https://progress-bar.xyz/75/?title=&width=140&color=41B883&suffix=%25" />
+      <img src="https://progress-bar.xyz/70/?title=&width=140&color=41B883&suffix=%25" />
     </td>
     <td align="center" width="200">
       <b>Node / Express</b><br/>
