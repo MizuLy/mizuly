@@ -144,7 +144,7 @@ status: Open — please ignore the smoke coming from the basement
 <div align="center">
 
 <a href="https://github.com/MizuLy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6A0DAD&center=true&vCenter=true&width=640&height=70&lines=Welcome+to+the+Shop%2C+I+Inherited+It%2C+Please+Send+Help;Training+Arc%3A+Break+It%2C+Fix+It%2C+Repeat;Eat.+Sleep.+Push+to+Main.+Regret+Instantly." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=6A0DAD&center=true&vCenter=true&width=750&height=70&lines=Welcome%2C+I+Inherited+This+Shop%2C+Send+Help;Training+Arc%3A+Break+It%2C+Fix+It%2C+Repeat;Eat.+Sleep.+Push+to+Main.+Regret+Instantly." alt="Typing SVG" />
 </a>
 
 <br/>
