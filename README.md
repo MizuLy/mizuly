@@ -66,11 +66,11 @@ status: Open — please ignore the smoke coming from the basement
   <tr>
     <td align="center" width="200">
       <b>Spring Boot</b><br/>
-      <img src="https://progress-bar.xyz/75/?title=&width=140&color=6DB33F&suffix=%25" />
+      <img src="https://progress-bar.xyz/69/?title=&width=140&color=6DB33F&suffix=%25" />
     </td>
     <td align="center" width="200">
       <b>Vue / React</b><br/>
-      <img src="https://progress-bar.xyz/70/?title=&width=140&color=41B883&suffix=%25" />
+      <img src="https://progress-bar.xyz/67/?title=&width=140&color=41B883&suffix=%25" />
     </td>
     <td align="center" width="200">
       <b>Node / Express</b><br/>
