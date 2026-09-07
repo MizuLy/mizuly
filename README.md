@@ -48,7 +48,7 @@ status: Open — please ignore the smoke coming from the basement
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,vue,react,nodejs,express,laravel,mysql,postgres,git,github,docker,vscode,prisma,tailwind,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,vue,react,nodejs,express,laravel,mysql,postgres,git,github,docker,vscode,prisma,tailwind,postman&theme=dark" />
 </a>
 
 <sub ><b>The real reason nothing ships on time</b></sub>
