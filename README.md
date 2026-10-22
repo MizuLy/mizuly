@@ -1,1 +1,1 @@
-<img alt="I'm just sad now :(" src="https://github.com/MizuLy/mizuly/blob/master/hik.gif?raw=true" width="100%">
+<img alt="I'm just sad now :(" src="https://github.com/MizuLy/mizuly/blob/master/hik.gif?raw=true" width="600" height="400">
